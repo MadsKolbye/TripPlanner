@@ -11,7 +11,7 @@ public class Main {
 	    menu(console, trips);
         printArray(trips);
         String s = "HEJ".toLowerCase();
-
+asd
 
     }
     public static void menu(Scanner console, ArrayList<Trip> trips){
